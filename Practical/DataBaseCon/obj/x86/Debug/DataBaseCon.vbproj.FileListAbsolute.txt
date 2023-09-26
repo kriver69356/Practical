@@ -1,0 +1,20 @@
+C:\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.exe.config
+C:\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.exe
+C:\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.pdb
+C:\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.xml
+C:\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.ODBC.resources
+C:\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.Resources.resources
+C:\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.vbproj.GenerateResource.Cache
+C:\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.exe
+C:\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.xml
+C:\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.exe.config
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\bin\Debug\DataBaseCon.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.ODBC.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.Resources.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.vbproj.GenerateResource.Cache
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\DataBaseCon\obj\x86\Debug\DataBaseCon.pdb

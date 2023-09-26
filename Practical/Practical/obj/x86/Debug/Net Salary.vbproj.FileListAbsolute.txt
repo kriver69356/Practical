@@ -1,0 +1,18 @@
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\bin\Debug\Practical.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\bin\Debug\Practical.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\bin\Debug\Practical.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\obj\x86\Debug\Practical.Resources.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\obj\x86\Debug\Practical.NET_SALARY.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\obj\x86\Debug\Net Salary.vbproj.GenerateResource.Cache
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\obj\x86\Debug\Practical.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\obj\x86\Debug\Practical.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Practical\obj\x86\Debug\Practical.pdb
+C:\Practical\Practical\Practical\obj\x86\Debug\Practical.exe
+C:\Practical\Practical\Practical\obj\x86\Debug\Practical.xml
+C:\Practical\Practical\Practical\obj\x86\Debug\Practical.pdb
+C:\Practical\Practical\Practical\bin\Debug\Practical.exe
+C:\Practical\Practical\Practical\bin\Debug\Practical.pdb
+C:\Practical\Practical\Practical\bin\Debug\Practical.xml
+C:\Practical\Practical\Practical\obj\x86\Debug\Practical.Resources.resources
+C:\Practical\Practical\Practical\obj\x86\Debug\Practical.NET_SALARY.resources
+C:\Practical\Practical\Practical\obj\x86\Debug\Net Salary.vbproj.GenerateResource.Cache

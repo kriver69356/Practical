@@ -1,0 +1,9 @@
+C:\Practical\Practical\Picture Box\bin\Debug\Picture Box.exe
+C:\Practical\Practical\Picture Box\bin\Debug\Picture Box.pdb
+C:\Practical\Practical\Picture Box\bin\Debug\Picture Box.xml
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture_Box.Resources.resources
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.vbproj.GenerateResource.Cache
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.exe
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.xml
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.pdb
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture_Box.PictureBox.resources

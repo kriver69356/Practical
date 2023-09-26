@@ -1,0 +1,18 @@
+C:\Practical\Practical\Picture Box\bin\Debug\Picture Box.exe
+C:\Practical\Practical\Picture Box\bin\Debug\Picture Box.pdb
+C:\Practical\Practical\Picture Box\bin\Debug\Picture Box.xml
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture_Box.PictureBox.resources
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture_Box.Resources.resources
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box And ComboBox.vbproj.GenerateResource.Cache
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.exe
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.xml
+C:\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\bin\Debug\Picture Box.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\bin\Debug\Picture Box.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\bin\Debug\Picture Box.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\obj\x86\Debug\Picture_Box.PictureBox.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\obj\x86\Debug\Picture_Box.Resources.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box And ComboBox.vbproj.GenerateResource.Cache
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Picture Box\obj\x86\Debug\Picture Box.pdb

@@ -1,0 +1,18 @@
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\bin\Debug\Order Form.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\bin\Debug\Order Form.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\bin\Debug\Order Form.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\obj\x86\Debug\Order_Form.Resources.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\obj\x86\Debug\Order_Form.Order.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\obj\x86\Debug\Order Form.vbproj.GenerateResource.Cache
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\obj\x86\Debug\Order Form.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\obj\x86\Debug\Order Form.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Order Form\obj\x86\Debug\Order Form.pdb
+C:\Practical\Practical\Order Form\obj\x86\Debug\Order Form.exe
+C:\Practical\Practical\Order Form\obj\x86\Debug\Order Form.xml
+C:\Practical\Practical\Order Form\obj\x86\Debug\Order Form.pdb
+C:\Practical\Practical\Order Form\bin\Debug\Order Form.exe
+C:\Practical\Practical\Order Form\bin\Debug\Order Form.pdb
+C:\Practical\Practical\Order Form\bin\Debug\Order Form.xml
+C:\Practical\Practical\Order Form\obj\x86\Debug\Order_Form.Resources.resources
+C:\Practical\Practical\Order Form\obj\x86\Debug\Order_Form.Order.resources
+C:\Practical\Practical\Order Form\obj\x86\Debug\Order Form.vbproj.GenerateResource.Cache

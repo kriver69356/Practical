@@ -1,0 +1,18 @@
+C:\Practical\Practical\MathsFumctions\bin\Debug\MathsFumctions.exe
+C:\Practical\Practical\MathsFumctions\bin\Debug\MathsFumctions.pdb
+C:\Practical\Practical\MathsFumctions\bin\Debug\MathsFumctions.xml
+C:\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.Resources.resources
+C:\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.vbproj.GenerateResource.Cache
+C:\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.exe
+C:\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.xml
+C:\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.pdb
+C:\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.MathsF.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\bin\Debug\MathsFumctions.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\bin\Debug\MathsFumctions.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\bin\Debug\MathsFumctions.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.MathsF.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.Resources.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.vbproj.GenerateResource.Cache
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\MathsFumctions\obj\x86\Debug\MathsFumctions.pdb

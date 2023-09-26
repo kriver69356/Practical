@@ -1,0 +1,8 @@
+C:\Practical\Practical\Functions\bin\Debug\Functions.exe
+C:\Practical\Practical\Functions\bin\Debug\Functions.pdb
+C:\Practical\Practical\Functions\bin\Debug\Functions.xml
+C:\Practical\Practical\Functions\obj\x86\Debug\Functions.Resources.resources
+C:\Practical\Practical\Functions\obj\x86\Debug\Functions.vbproj.GenerateResource.Cache
+C:\Practical\Practical\Functions\obj\x86\Debug\Functions.exe
+C:\Practical\Practical\Functions\obj\x86\Debug\Functions.xml
+C:\Practical\Practical\Functions\obj\x86\Debug\Functions.pdb

@@ -1,0 +1,18 @@
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\bin\Debug\Calculator.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\bin\Debug\Calculator.pdb
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\bin\Debug\Calculator.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\krish\Documents\Visual Studio 2010\Projects\Practical\Practical\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Practical\Practical\Calculator\bin\Debug\Calculator.exe
+C:\Practical\Practical\Calculator\bin\Debug\Calculator.pdb
+C:\Practical\Practical\Calculator\bin\Debug\Calculator.xml
+C:\Practical\Practical\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Practical\Practical\Calculator\obj\x86\Debug\Calculator.Resources.resources
+C:\Practical\Practical\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Practical\Practical\Calculator\obj\x86\Debug\Calculator.exe
+C:\Practical\Practical\Calculator\obj\x86\Debug\Calculator.xml
+C:\Practical\Practical\Calculator\obj\x86\Debug\Calculator.pdb
